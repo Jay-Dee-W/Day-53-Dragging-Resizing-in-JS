@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    position : fixed;
+    background-color : rgb(42, 165, 52);
+}
+  
+#box {
+    position : fixed;
+    background: black;
+    cursor :move ;
+    color: white;
+    text-align : center;
+}
+  
+ 
